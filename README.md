@@ -20,7 +20,7 @@
 <a href="https://twitter.com/falakshair563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="falakshair563" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/falak-shair-8ba5b6208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="falak-shair-8ba5b6208" height="30" width="40" /></a>
 <a href="https://fb.com/your.falakshair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your.falakshair" height="30" width="40" /></a>
-<a href="https://instagram.com/falak_shairrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="falak_shairrr" height="30" width="40" /></a>
+<a href="https://instagram.com/_falak.shair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="falak_shairrr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
