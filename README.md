@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/falakshair563" target="blank"><img src="https://img.shields.io/twitter/follow/falakshair563?logo=twitter&style=for-the-badge" alt="falakshair563" /></a> </p>
 
-- 👨‍💻 You can also check out my portfolio at [https://falak-shair.github.io/portfolio-website/](https://falak-shair.github.io/portfolio-website/)
+- 👨‍💻 You can also check out my portfolio at [https://falakshair01.github.io/portfolio-website/](https://falakshair01.github.io/portfolio-website/)
 
 - 💬 Ask me about **Python, Django, Flask**
 
