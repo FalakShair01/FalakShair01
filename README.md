@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Falak Shair</h1>
-<h3 align="centerSelf-motivated ML Software Engineer with a strong academic interest in Generative AI, Computer Vision, and Language Models. Currently building LLM-based systems </h3>
+<h3 align="center" Self-motivated ML Software Engineer with a strong academic interest in Generative AI, Computer Vision, and Language Models. Currently building LLM-based systems </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falak-shair&label=Profile%20views&color=0e75b6&style=flat" alt="falak-shair" /> </p>
